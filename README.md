@@ -1,2 +1,1 @@
-# Capstone
-Mario Silvestri
+# Capstone - Mario Silvestri
