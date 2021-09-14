@@ -29,3 +29,11 @@ https://github.com/mariosilvestri3/capstone-objectives-1-2-3/blob/main/objective
 #### Objective 4 - Deployment/Implementation
 
 https://github.com/mariosilvestri3/capstone-objective-4-implementation
+
+### Directions
+
+The project is web-based and doesn't require local downloading, installation or execution of software or files.
+
+#### Objective 2 and 3 - Jupyter Notebooks in Google Colab
+
+When reviewing these two documents, you can click the 'Open in Colab' button to run the notebook in Google Cloud, without needing to install or run anything locally. Once in Collab, click the 'Connect' dropdown arrow, then click 'Connect to a hosted runtime'. Finally, click 'Runtime' in the top main menu, then 'Run all'.
