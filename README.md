@@ -12,30 +12,30 @@ When reviewing these two documents, click the 'Open in Colab' button to run the 
 
 ---
 
-#### Project Flow
+### Project Flow
 
-##### Original Dataset
+#### Original Dataset
 
 https://github.com/mariosilvestri3/capstone-objectives-1-2-3/blob/main/customer-churn-raw.csv
 
 Origin: https://community.ibm.com/accelerators/catalog/content/Customer-churn
 
-##### Objective 1 - Business Understanding
+#### Objective 1 - Business Understanding
 
 https://github.com/mariosilvestri3/capstone-objectives-1-2-3/blob/main/objective-1-business-understanding-report.md
 
-##### Objective 2 - Data Preparation
+#### Objective 2 - Data Preparation
 
 https://github.com/mariosilvestri3/capstone-objectives-1-2-3/blob/main/objective-2-data-preparation-report.ipynb
 
-##### Prepped Dataset
+#### Prepped Dataset
 
 https://github.com/mariosilvestri3/capstone-objectives-1-2-3/blob/main/customer-churn-prepped.csv
 
-##### Objective 3 - Modeling
+#### Objective 3 - Modeling
 
 https://github.com/mariosilvestri3/capstone-objectives-1-2-3/blob/main/objective-3-modeling-report.ipynb
 
-##### Objective 4 - Deployment/Implementation
+#### Objective 4 - Deployment/Implementation
 
 https://github.com/mariosilvestri3/capstone-objective-4-implementation
