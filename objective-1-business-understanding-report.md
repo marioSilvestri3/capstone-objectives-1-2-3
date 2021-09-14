@@ -2,13 +2,13 @@
 
 ## Objective 1 - Business Understanding
 
-This document details business vision and business requirements and is the final deliverable for Objective 1 - Business Understanding.
+This document details the business vision and requirements, and is the final deliverable for Objective 1 - Business Understanding.
 
-### Project Vision
+### Vision
 
 TelCo leadership wants to invest in its internal data science capabilities, but first needs to prove out the value of data science with a pilot project. This proposed project and data product will demonstrate the potential value of data science in solving business problems and delivering value by analyzing data and developing a predictive model that identifies customers at high risk of churning, enabling the company to prevent customer churn.
 
-### Product Requirements
+### Requirements
 
 #### Functional Requirements
 
