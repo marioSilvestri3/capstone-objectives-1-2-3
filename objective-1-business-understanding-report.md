@@ -2,7 +2,7 @@
 
 ## Objective 1 - Business Understanding
 
-This document details the business vision and requirements, and is the final deliverable for Objective 1 - Business Understanding.
+This document details the business vision and requirements for the project and is the final deliverable for Objective 1 - Business Understanding.
 
 ### Vision
 
