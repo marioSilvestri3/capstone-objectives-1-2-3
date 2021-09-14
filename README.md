@@ -4,7 +4,7 @@
 
 ### Directions
 
-The project is web-based and doesn't require local downloading, installation or execution of software or files.
+The project is web-based and doesn't any local downloads, installs, or execution.
 
 #### Objective 2 and 3 - Jupyter Notebooks in Google Colab
 
