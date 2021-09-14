@@ -8,7 +8,7 @@ The project is web-based; no need to download, install, or locally run anything.
 
 #### Objective 2 and 3 - Jupyter Notebooks in Google Colab
 
-When reviewing these two documents, you can click the 'Open in Colab' button to run the notebook in Google Cloud, without needing to install or run anything locally. Once in Collab, click the 'Connect' dropdown arrow, then click 'Connect to a hosted runtime'. Finally, click 'Runtime' in the top main menu, then 'Run all'.
+When reviewing these two documents, click the 'Open in Colab' button to run the notebook in Google Cloud. Once in Collab, click the 'Connect' dropdown arrow, then click 'Connect to a hosted runtime'. Finally, click 'Runtime' in the top menu bar, then 'Run all'.
 
 ---
 
