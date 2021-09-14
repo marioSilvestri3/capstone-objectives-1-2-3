@@ -9,17 +9,17 @@
 ##### Original Dataset
 https://github.com/mariosilvestri3/capstone-objectives-1-2-3/blob/main/customer-churn-raw.csv
 
-##### Business Understanding
+##### Objective 1 - Business Understanding
 https://github.com/mariosilvestri3/capstone-objectives-1-2-3/blob/main/objective-1-business-understanding-report.md
 
-##### Data Preparation
+##### Objective 2 - Data Preparation
 https://github.com/mariosilvestri3/capstone-objectives-1-2-3/blob/main/objective-2-data-preparation-report.ipynb
 
 ##### Prepped Dataset
 https://github.com/mariosilvestri3/capstone-objectives-1-2-3/blob/main/customer-churn-prepped.csv
 
-##### Modeling
+##### Objective 3 - Modeling
 https://github.com/mariosilvestri3/capstone-objectives-1-2-3/blob/main/objective-3-modeling-report.ipynb
 
-##### Deployment/Implementation
+##### Objective 4 - Deployment/Implementation
 https://github.com/mariosilvestri3/capstone-objective-4-implementation
