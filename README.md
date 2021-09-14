@@ -7,6 +7,7 @@
 #### Original Dataset
 
 https://github.com/mariosilvestri3/capstone-objectives-1-2-3/blob/main/customer-churn-raw.csv
+(Original source: https://community.ibm.com/accelerators/catalog/content/Customer-churn)
 
 #### Objective 1 - Business Understanding
 
