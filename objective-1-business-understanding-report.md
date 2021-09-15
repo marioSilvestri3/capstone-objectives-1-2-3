@@ -22,6 +22,7 @@ The data product shall:
 * contain an interactive query.
 * implement a machine learning algorithm.
 * evaluate the accuracy of the machine learning model.
+* train a machine learning model with an 80% prediciton accuracy rate.
 * contain a user-friendly and functional dashboard with at least three visualizations.
 
 #### Non-Functional Requirements
