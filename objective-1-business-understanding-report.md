@@ -6,7 +6,7 @@ This document details the business vision and requirements for the project and i
 
 ### Vision
 
-TelCo leadership wants to invest in its internal data science capabilities, but first needs to prove out the value of data science with a pilot project. This proposed project and data product will demonstrate the potential value of data science in solving business problems and delivering value by analyzing data and developing a predictive model that identifies customers at high risk of churning, enabling the company to prevent customer churn.
+TelCo leadership wants to invest in its internal data science capabilities, but first needs to prove out the value of data science with a pilot project. This proposed project and data product will demonstrate the value of data science for solving business problems and delivering value by analyzing data and developing a predictive model that identifies customers at high risk of churn, enabling the company to understand and prevent customer churn.
 
 ### Requirements
 
@@ -22,7 +22,7 @@ The data product shall:
 * contain an interactive query.
 * implement a machine learning algorithm.
 * evaluate the accuracy of the machine learning model.
-* train a machine learning model with an 80% prediciton accuracy rate.
+* develop a machine learning model with an 80% prediciton accuracy rate.
 * contain a user-friendly and functional dashboard with at least three visualizations.
 
 #### Non-Functional Requirements
